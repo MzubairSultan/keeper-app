@@ -1,0 +1,12 @@
+.right{
+
+    width: 45%;
+    border: 1px solid orange;
+    border-radius: 4px;
+    margin-right: 1.5rem;
+}
+.myflexItem{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
